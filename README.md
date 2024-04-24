@@ -2,7 +2,7 @@
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-# Tema da Aula
+# Tratamento de dados utilizando pandas e numpy - parte 2
 
 Turma Online On34 | Python | Semana 10 | 2024 | <a href="https://www.linkedin.com/in/daniele-fernandes-rodrigues-junior-8244bb24/" target="_blank" rel="noopener noreferrer">Professora Daniele Junior</a>
 
