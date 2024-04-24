@@ -4,7 +4,7 @@
 
 # Tema da Aula
 
-Turma Online X | X-end | Semana X | 202X | Professora X
+Turma Online On34 | Python | Semana 10 | 2024 | <a href="https://www.linkedin.com/in/daniele-fernandes-rodrigues-junior-8244bb24/" target="_blank" rel="noopener noreferrer">Professora Daniele Junior</a>
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
